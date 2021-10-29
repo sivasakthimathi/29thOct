@@ -10,7 +10,6 @@ public class Demo {
 	d.empid(10, 20);
 	try {
 		System.out.println(empid(10, 10)/2);
-		System.out.println(empid(10, 10)/2);
 	} catch (Exception e) {
 		System.out.println("exception handled");
 	}
