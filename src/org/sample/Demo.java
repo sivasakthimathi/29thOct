@@ -13,6 +13,11 @@ public class Demo {
 	} catch (Exception e) {
 		System.out.println("exception handled");
 	}
+	try {
+		System.out.println(empid(10, 10)/2);
+	} catch (Exception e) {
+		System.out.println("exception handled");
+	}
 	
 
 //	
